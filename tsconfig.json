@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "commonjs",
+		"sourceMap": false
+	},
+	 "exclude": [
+        "node_modules",
+        "typings",
+		"bower_components"
+    ]
+}	
+ 
